@@ -1,2 +1,2 @@
-# N_QUEEN_PROBLEMS-202401100300016-
-The N-Queens problem is a classical combinatorial problem that involves placing N chess queens on an N×N chessboard.
+The N-Queens problem is a classical combinatorial problem that involves placing N chess queens on an N×N chessboard such that no two queens attack each other. This means that no two queens can be in the same row, column, or diagonal. The problem serves as an excellent example of constraint satisfaction and backtracking techniques in computer science.
+This report presents a Python implementation of the N-Queens problem using a recursive backtracking approach. The implementation ensures that all possible placements of queens are explored, and valid solutions are printed accordingly.
